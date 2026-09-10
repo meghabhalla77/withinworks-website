@@ -58,7 +58,7 @@
         message;
 
       var mailtoLink =
-        "mailto:hello@withinworks.com" +
+        "mailto:megha@meghabhalla.com" +
         "?subject=" + encodeURIComponent(subject) +
         "&body=" + encodeURIComponent(body);
 
