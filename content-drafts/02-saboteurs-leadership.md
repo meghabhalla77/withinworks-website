@@ -1,0 +1,21 @@
+# The Saboteurs Quietly Running Your Leadership
+
+There's a particular moment in coaching that I've come to recognize almost immediately. A leader is describing a decision they made, or didn't make, and partway through the story, their voice changes. It gets a little faster, a little more certain, a little more rehearsed. That's usually the moment a saboteur has taken over the story.
+
+Saboteurs are the automatic patterns of thought that protected you at some point in your life, often early on, and that now run quietly in the background of your leadership without your permission. They're not character flaws. They're not signs of weakness. They're old strategies that made sense once and have simply overstayed their welcome.
+
+I want to make this concrete, because it's easy for "saboteurs" to sound like an abstract coaching term rather than something you can actually spot in your own week.
+
+Take the Controller. This is the leader who has a hard time delegating, not because they don't trust their team's competence, but because some part of them equates control with safety. In a growth phase, this shows up as a founder who still reviews every deck, every hire, every client email, long after the team has outgrown that level of oversight. It's exhausting for them and, eventually, disempowering for everyone around them. The irony is that this pattern often gets someone promoted in the first place. Being hands-on, thorough, unwilling to let things slip, that's rewarded early in a career. It just doesn't scale.
+
+Or take the Pleaser, which shows up constantly in senior women I work with, especially at points of professional reinvention. The Pleaser leader has built real skill at reading a room and meeting people's needs, which is genuinely valuable. But under pressure, it can tip into over-functioning: saying yes to scope that isn't theirs, softening feedback until it loses its usefulness, staying quiet in a meeting to avoid being seen as difficult. I've watched capable, senior people talk themselves out of asking for what they're worth because some old part of them is still calibrated to keep everyone comfortable.
+
+There's the Hyper-Achiever, who ties self-worth so tightly to accomplishment that rest starts to feel like risk. This one is common among leaders who've climbed fast, and it's often invisible to the person living it, because the results look like success from the outside. Nobody questions a leader who's always delivering. But I've sat with people at the top of that climb who couldn't name a single thing they wanted outside of the next milestone, because the Hyper-Achiever had quietly taken over the whole operating system.
+
+And there's the Restless one, always scanning for the next opportunity, the next pivot, the next version of the plan, which can look like ambition but is sometimes an inability to be fully present with what's already working.
+
+None of these patterns are the enemy. That's the part people find most relieving when we name their own saboteur out loud. You don't need to fight it or shame it into silence. It was doing a job. The Controller kept you safe when delegating meant risking your name on someone else's mistake. The Pleaser kept you safe when disagreement felt dangerous. The work isn't eradication. It's recognition, and then choice.
+
+This is part of what we do together in the Six-Session Coaching Journey, in the module on saboteurs and the inner leader. We identify which patterns are running the show, usually more than one, and we get specific about when they show up: which meetings, which relationships, which kinds of decisions trigger them most. Once a pattern has a name and a face, it loses a lot of its automatic power. You start to catch it in real time, mid-meeting, mid-email, and you get a genuine choice about whether to let the old pattern drive or to respond from somewhere steadier.
+
+That steadier place is what I call the Inner Leader, the part of you that isn't reactive, that can see the saboteur clearly without being run by it. It's not a personality overhaul. It's already in you. Most of the leaders I work with don't need to become someone new. They need to recognize who's been quietly steering, thank that part for its service, and take the wheel back themselves.
