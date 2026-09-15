@@ -313,6 +313,29 @@ a { color: inherit; text-decoration: none; }
   color: var(--text-faint);
 }
 
+.epigraph {
+  max-width: 620px;
+  margin: 0 auto 3rem;
+  padding: 0;
+  border: none;
+  text-align: center;
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 1.1rem;
+  color: var(--text);
+  line-height: 1.55;
+}
+
+.epigraph cite {
+  display: block;
+  margin-top: 0.7em;
+  font-family: var(--sans);
+  font-style: normal;
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+  color: var(--text-faint);
+}
+
 .credentials {
   list-style: none;
   padding: 0;
