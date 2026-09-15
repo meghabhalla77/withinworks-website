@@ -658,7 +658,15 @@ a { color: inherit; text-decoration: none; }
 }
 .contact-email a:hover { color: var(--accent); border-color: var(--accent); }
 
-.contact-intro .btn { margin-top: 28px; }
+.contact-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 14px;
+  margin-top: 28px;
+}
+.contact-actions .btn { margin-top: 0; }
+.contact-actions .btn-ghost { margin-left: 0; }
 
 .contact-form {
   display: flex;
@@ -791,7 +799,30 @@ a { color: inherit; text-decoration: none; }
   }
 }
 
+/* ============================================
+   WhatsApp floating button
+   ============================================ */
+.whatsapp-float {
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  z-index: 90;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: #25d366;
+  color: #fff;
+  box-shadow: var(--shadow);
+  transition: transform 0.2s ease;
+}
+.whatsapp-float:hover { transform: translateY(-3px); }
+
 @media (max-width: 700px) {
+  .whatsapp-float { right: 16px; bottom: 16px; width: 50px; height: 50px; }
+
   .primary-nav {
     position: absolute;
     top: 76px;
