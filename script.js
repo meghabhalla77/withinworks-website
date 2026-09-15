@@ -42,6 +42,22 @@
     revealEls.forEach(function (el) { el.classList.add("is-visible"); });
   }
 
+  // Blog read more / close
+  document.querySelectorAll(".blog-read-more").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var full = btn.nextElementSibling;
+      full.hidden = false;
+      btn.hidden = true;
+    });
+  });
+  document.querySelectorAll(".blog-collapse").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var full = btn.closest(".blog-full");
+      full.previousElementSibling.hidden = false;
+      full.hidden = true;
+    });
+  });
+
   // Contact form -> mailto
   var form = document.getElementById("contactForm");
   if (form) {
