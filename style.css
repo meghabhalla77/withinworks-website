@@ -741,11 +741,15 @@ a { color: inherit; text-decoration: none; }
 
 .footer-address {
   margin: 18px 0 0;
-  padding-top: 18px;
+  padding: 18px 70px 0;
   border-top: 1px solid var(--border);
   font-size: 0.78rem;
   color: var(--text-faint);
   text-align: center;
+}
+
+@media (max-width: 700px) {
+  .footer-address { padding: 18px 56px 0; }
 }
 
 /* ============================================
@@ -804,24 +808,26 @@ a { color: inherit; text-decoration: none; }
    ============================================ */
 .whatsapp-float {
   position: fixed;
-  right: 24px;
-  bottom: 24px;
+  right: 20px;
+  bottom: 20px;
   z-index: 90;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 56px;
-  height: 56px;
+  width: 42px;
+  height: 42px;
   border-radius: 50%;
   background: #25d366;
   color: #fff;
   box-shadow: var(--shadow);
   transition: transform 0.2s ease;
 }
+.whatsapp-float svg { width: 20px; height: 20px; }
 .whatsapp-float:hover { transform: translateY(-3px); }
 
 @media (max-width: 700px) {
-  .whatsapp-float { right: 16px; bottom: 16px; width: 50px; height: 50px; }
+  .whatsapp-float { right: 16px; bottom: 16px; width: 38px; height: 38px; }
+  .whatsapp-float svg { width: 18px; height: 18px; }
 
   .primary-nav {
     position: absolute;
