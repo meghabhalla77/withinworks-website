@@ -448,7 +448,8 @@ a { color: inherit; text-decoration: none; }
 .step-label {
   display: block;
   font-family: var(--serif);
-  font-size: 1rem;
+  font-size: 1.15rem;
+  font-weight: 500;
   color: var(--text);
 }
 
