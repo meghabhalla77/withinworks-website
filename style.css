@@ -195,7 +195,7 @@ a { color: inherit; text-decoration: none; }
    Hero
    ============================================ */
 .hero {
-  padding: 150px 0 110px;
+  padding: 110px 0 80px;
   text-align: center;
   background:
     radial-gradient(ellipse at top, rgba(138,154,139,0.08), transparent 60%),
@@ -205,8 +205,8 @@ a { color: inherit; text-decoration: none; }
 .hero-inner { max-width: 720px; }
 
 .hero-portrait {
-  width: 168px;
-  height: 168px;
+  width: 200px;
+  height: 200px;
   margin: 0 auto 2em;
   border-radius: 50%;
   overflow: hidden;
@@ -906,7 +906,7 @@ a { color: inherit; text-decoration: none; }
   .nav-toggle { display: flex; }
 
   .hero { padding: 120px 0 80px; }
-  .hero-portrait { width: 132px; height: 132px; }
+  .hero-portrait { width: 150px; height: 150px; }
   .hero-actions { display: flex; flex-direction: column; gap: 12px; }
   .btn-ghost { margin-left: 0; }
   .section { padding: 72px 0; }
