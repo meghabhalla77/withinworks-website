@@ -369,17 +369,30 @@ a { color: inherit; text-decoration: none; }
 .career-bar-list {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.6em 1.6em;
+  align-items: center;
+  gap: 1.1em 1.8em;
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
 .career-bar-list li {
+  display: flex;
+  align-items: center;
   font-family: var(--serif);
   font-size: 1.05rem;
   color: var(--sage-dark);
 }
+
+.career-logo {
+  height: 22px;
+  width: auto;
+  max-width: 110px;
+  object-fit: contain;
+  filter: grayscale(1) opacity(0.65);
+  transition: filter 0.2s ease;
+}
+.career-logo:hover { filter: grayscale(0) opacity(1); }
 
 .credentials {
   list-style: none;
