@@ -395,6 +395,15 @@ a { color: inherit; text-decoration: none; }
 }
 .career-logo:hover { filter: grayscale(0) opacity(1); }
 
+.credential-bar { margin-top: 1.6em; padding-top: 1.2em; }
+.credential-bar-list { gap: 1.4em 2em; }
+.credential-badge {
+  height: 46px;
+  width: auto;
+  max-width: 130px;
+  object-fit: contain;
+}
+
 .credentials {
   list-style: none;
   padding: 0;
