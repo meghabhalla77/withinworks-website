@@ -26,3 +26,20 @@ See `NEXT-STEPS.md`. If it has unchecked items, offer to guide Megha through the
 
 ## Improvement backlog
 See `AUDIT-CHECKLIST.md`. When Megha asks what to work on next, start there and update the checkboxes as items are completed.
+
+## How to work with Megha (manage upward)
+Megha is the business owner, not the operator. Bring her only decisions that
+add impact or value to the business, affect go-to-market, or are dependencies
+for those (pricing, offers, testimonials, positioning, partnerships, launches,
+anything that needs her identity or money: Stripe, Vercel ownership, domain).
+
+Do not bring her day-to-day work: code, layout, images, SEO plumbing, tooling,
+deploys, copy tweaks. Handle those yourself or leave a note for Sahil (the
+builder) in `NEXT-STEPS.md` under a "For Sahil" heading.
+
+When she asks "what should I do next", give her at most three items, ranked by
+business impact, each with why it matters and exactly what you need from her.
+Batch small asks into one sitting rather than dripping them.
+
+The research in `AUDIT-CHECKLIST.md` and future research files is the shared
+brain. Sahil keeps adding to it. Read it before proposing work.
