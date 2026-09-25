@@ -7,7 +7,7 @@ to run commands. When she says a step is done, verify it yourself where possible
 ## Status
 - [x] Site is built and deployed on Vercel (managed by Sahil for now).
 - [ ] Domain withinworksleadership.com needs to point at Vercel. **This is the current step.**
-- [ ] Add Meher (GitHub user `mehrpatni9`) as a collaborator on this repo, and make Sahil an admin. **Do this right after DNS.**
+- [ ] Add Meher (GitHub user `mehrpatni9-lgtm`) as a collaborator on this repo, and make Sahil an admin. **Do this right after DNS.**
 - [ ] Later: Sahil transfers the Vercel project to Megha's own Vercel account.
 - [ ] Later: Stripe account (must be created by Megha, tied to her bank details).
 
@@ -41,7 +41,7 @@ Only Megha can do this because the repo is under her account. Guide her:
 1. Go to github.com/meghabhalla77/withinworks-website and sign in.
 2. Click "Settings" (top right of the repo page).
 3. In the left menu click "Collaborators". GitHub may ask for her password.
-4. Click "Add people". Type `mehrpatni9` and select the match. Choose "Write". Click "Add".
+4. Click "Add people". Type `mehrpatni9-lgtm` and select the match. Choose "Write". Click "Add".
    If GitHub says no user is found, ask Meher for the email address they use
    on GitHub and paste that instead (invites work by email too). If Meher has
    no GitHub account yet, they need to create one first at github.com/signup.
@@ -50,7 +50,7 @@ Only Megha can do this because the repo is under her account. Guide her:
 
 Agent verification (run yourself):
     gh api repos/meghabhalla77/withinworks-website/collaborators --jq '.[].login'
-Expect to see mehrpatni9 (after they accept the emailed invite) and sahilmodi1965.
+Expect to see mehrpatni9-lgtm (after they accept the emailed invite) and sahilmodi1965.
 
 ## After DNS works
 Tell Megha the site is live at https://withinworksleadership.com and that she
