@@ -20,3 +20,6 @@ Marketing site for Megha Bhalla's leadership coaching practice. Plain static sit
 - Keep it simple: one HTML file, no frameworks, no dependencies unless there is a clear need.
 - Booking goes through Calendly; WhatsApp link is in the contact section. Keep both working.
 - Stripe payments are planned. Prefer Stripe Payment Links or hosted Checkout so no backend is needed.
+
+## Pending setup
+See `NEXT-STEPS.md`. If it has unchecked items, offer to guide Megha through the current step.
