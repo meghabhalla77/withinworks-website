@@ -23,3 +23,6 @@ Marketing site for Megha Bhalla's leadership coaching practice. Plain static sit
 
 ## Pending setup
 See `NEXT-STEPS.md`. If it has unchecked items, offer to guide Megha through the current step.
+
+## Improvement backlog
+See `AUDIT-CHECKLIST.md`. When Megha asks what to work on next, start there and update the checkboxes as items are completed.
